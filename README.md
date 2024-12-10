@@ -1,9 +1,7 @@
 ### CASLArt3D
 
 # CHARYBDIS
-
 # MINI TRAVEL
-
 # CASE
 
 #### CASLArt3D
@@ -14,7 +12,7 @@
 Creative Commons Attribution-NonCommercial-ShareAlike 4.
 International License
 
-Follow us on instagram!!
+Follow us on instagram!! @CASLArt3D
 
 Version A, December the 8th 2024
 
