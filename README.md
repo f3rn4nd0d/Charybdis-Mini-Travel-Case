@@ -114,11 +114,8 @@ Best approach so far that I have found to print the case is:
 - **Bottom parts** , lay them naturally on the printing bed
 
 ##### Also something that worked well for me is to
-
 ##### disable the options Speed - Overhang speed -
-
 ##### Slow down for overhangs and Slow down for
-
 ##### curled perimeters in Orca Slicer
 
 
@@ -135,7 +132,7 @@ amazing designs.
 
 Hope you enjoy your **Charybdis Mini Travel Case** !!
 
-@CASLArt3D
+@CASLArt3D, Casla, Segovia
 
 
 
