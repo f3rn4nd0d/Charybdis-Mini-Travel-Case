@@ -113,10 +113,7 @@ Best approach so far that I have found to print the case is:
     appear on the top surface)
 - **Bottom parts** , lay them naturally on the printing bed
 
-##### Also something that worked well for me is to
-##### disable the options Speed - Overhang speed -
-##### Slow down for overhangs and Slow down for
-##### curled perimeters in Orca Slicer
+##### Also something that worked well for me is to disable the options Speed - Overhang speed - Slow down for overhangs and Slow down for curled perimeters in Orca Slicer
 
 
 
