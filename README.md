@@ -44,8 +44,7 @@ especially if you use SA or MT3 or some tall keycaps.
 
 
 **Link to 3D online viewer** View the case in 3D even in
-augmented reality!!!
-
+augmented reality!!! Click here [click here](https://collaborate.shapr3d.com/v/Hb1HOA_byMEFyQqiXjbRR)
 
 ## CONTENTS OF THIS
 
