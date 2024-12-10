@@ -4,10 +4,7 @@
 
 # Introduction
 
-Hello and thanks for downloading this file for 3D printing your own **Charybdis Mini Travel Case** for your keyboard!!
-
-I have a Charybdis mini wireless keyboard and I was not happy with the lack of options for protecting it during my
-commutes. 
+I have a Charybdis mini wireless keyboard and I was not happy with the lack of options for protecting it during my commutes. 
 Working in an IT company means that some days it is office and some others it is working from home. 
 Since the Charybdis mini is my favorite keyboard I really needed a way to carry it safely.
 
