@@ -21,8 +21,8 @@ You may need to adapt the base of the keyboard for fitting your own keycaps, esp
 
 This repository contains 2 versions of the case:
 
-- Flat: Flat version of the bottom part, no flange. Base should be easier to adapt and modify, even for Flange version if needed.
-- Flange: Version with a flange on the bottom part, which is easier to open by using your thumb in the flange. It is also more aesthetically pleasing if you print both parts in different colors. 
+- **Flat**: Flat version of the bottom part, no flange. Base should be easier to adapt and modify, even for Flange version if needed.
+- **Flange**: Version with a flange on the bottom part, which is easier to open by using your thumb in the flange. It is also more aesthetically pleasing if you print both parts in different colors. 
 
 For each version, there are 4 files: top left, top right, bottom left, bottom right. You will need to print the 4 files for the version you choose.
 
@@ -43,7 +43,7 @@ Print vertically, using the small cut surface for the flange in the thumb cluste
 There will be some minor marks in the outside of the case because of the contact with the bed and some external supports, but for the rest of the print it will be perfect.
 Please see the version with the stripes for orientation. You can also print the non flanged yellow top case like this. As an alternative, you can print it flat (please see yellow top cases in the image but some marks due to resolution will appear on the top surface)
 
-![top orientation](pics/5.jpeg)
+![top orientation](pics/5.jpg)
 
 ### Bottom parts
 
