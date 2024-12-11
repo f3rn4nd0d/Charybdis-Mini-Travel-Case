@@ -41,7 +41,6 @@ Something that worked well for me is to disable the options **Speed - Overhang s
 
 Print vertically, using the small cut surface for the flange in the thumb cluster and use tree organic supports.
 There will be some minor marks in the outside of the case because of the contact with the bed and some external supports, but for the rest of the print it will be perfect.
-Please see the version with the stripes for orientation. You can also print the non flanged yellow top case like this. As an alternative, you can print it flat (please see yellow top cases in the image but some marks due to resolution will appear on the top surface)
 
 ![top orientation](pics/5.jpg)
 
@@ -56,7 +55,7 @@ Follow us on instagram: @CASLArt3D
 @CASLArt3D, Casla, Segovia
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.
-International License
+International License.
 
 Does this mean I can print it and use it for free? 
 Yes! But I would like you to consider a couple of things:
