@@ -1,6 +1,6 @@
 # Charybdis Mini travel case
 
-![main pic](pics/2.jpeg)
+![main pic](pics/6.jpeg)
 
 # Introduction
 
