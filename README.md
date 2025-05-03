@@ -61,7 +61,7 @@ Does this mean I can print it and use it for free?
 Yes! But I would like you to consider a couple of things:
 
 1. Follow my instagram @CASLArt3D for more designs like this
-1. If you like this and find this useful I would really appreciate if you could buy me a coffee, this will help me a lot with future designs.
+1. If you like this and find this useful I would really appreciate if you could [buy me a coffee](https://buymeacoffee.com/5spghandma), this will help me a lot with future designs.
 1. Share your print on your social media and tag me, thanks!
 
 ## Additional information
