@@ -52,7 +52,7 @@ Place those horizontally on the printing bed.
 
 Follow us on instagram: @retrofutura3D
 
-@retrofutura3D, Casla, Segovia
+@retrofutura3D, Segovia, Spain
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.
 International License.
