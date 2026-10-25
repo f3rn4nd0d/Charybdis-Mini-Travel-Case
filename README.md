@@ -50,9 +50,9 @@ Place those horizontally on the printing bed.
 
 ## License and attribution
 
-Follow us on instagram: @CASLArt3D
+Follow us on instagram: @retrofutura3D
 
-@CASLArt3D, Casla, Segovia
+@retrofutura3D, Casla, Segovia
 
 Creative Commons Attribution-NonCommercial-ShareAlike 4.
 International License.
@@ -60,7 +60,7 @@ International License.
 Does this mean I can print it and use it for free? 
 Yes! But I would like you to consider a couple of things:
 
-1. Follow my instagram @CASLArt3D for more designs like this
+1. Follow my instagram @retrofutura3D for more designs like this
 1. If you like this and find this useful I would really appreciate if you could [buy me a coffee](https://buymeacoffee.com/5spghandma), this will help me a lot with future designs.
 1. Share your print on your social media and tag me, thanks!
 
